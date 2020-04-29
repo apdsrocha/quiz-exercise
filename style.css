@@ -1,0 +1,11 @@
+body {
+  background-color: #17a2b8
+}
+
+.quiz-answer {
+  color: #E05A2A;
+  font-size: 20px;
+  width: 70%;
+  margin: 5% auto;
+  padding: 5%;
+}

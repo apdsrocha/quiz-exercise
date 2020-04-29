@@ -1,2 +1,5 @@
 # quiz-exercise
-Checkpoint exercise for JavaScript course
+
+A checkpoint exercise for Roger Melo's JavaScript course.
+
+
